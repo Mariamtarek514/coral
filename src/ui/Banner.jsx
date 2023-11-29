@@ -13,7 +13,7 @@ const Banner = () => {
             You can explore ans shop many differnt collection from various
             barands here.
           </p>
-          <button className="transition-color flex items-center gap-2 rounded-sm bg-Black px-6 py-2 font-semibold text-white duration-300 hover:bg-orange-500 focus:outline-none">
+          <button className="transition-color flex items-center gap-2 rounded-sm bg-Black px-6 py-2 font-semibold text-white duration-300 hover:bg-red-500 focus:outline-none">
             <FaShoppingBag />
             Shop Now
           </button>
